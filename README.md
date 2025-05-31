@@ -3,7 +3,7 @@
 Innovative, analytical and certified Data Analytics 📊 And Software Engineer 💻 with over a decade of experience developing and leading solutions driving Sales 💰, Customer Experience 😊, Automation 🤖, Analytics 📈, AI 🤖 while being actively involved in community engagement activities 🌍. The ability to communicate effectively 🗣️ and being solution-oriented 🔧 culminates into an individual with a strong work ethic 💪 interested in continuous improvement 🔄 and mentorship 👨‍🏫. 
 
 **Analytics:**  
-- Risk and Compliance Monitoring ⚖️  
+- Sales 🛒  
 - Forecasting 📅  
 - Customer Segmentation and Behaviour Analysis 🧠  
 - Operational Efficiency ⚙️  
